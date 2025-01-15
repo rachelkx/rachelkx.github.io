@@ -15,9 +15,6 @@ Hi! I’m Kexin Liu (pronounced as Kuh-shin), but feel free to call me Rachel. I
 Projects
 ======
 
-
-Posters
-======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
@@ -27,9 +24,9 @@ Posters
 
 Education
 ------
-<div style="display: flex; align-items: center; margin: 20px; border: 1px solid #ddd; border-radius: 10px; padding: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+<div style="display: flex; align-items: center; margin: 20px;">
     <div style="flex-shrink: 0; margin-right: 20px;">
-        <img src="https://www.sfu.ca/content/sfu/communicators-toolkit/brand/guidelines/logos/logo-usage-guidelines/jcr:content/main_content/image_672850327.img.640.medium.png/1685743328658.png" alt="SFU Logo" style="width: 120px; border-radius: 5px;">
+        <img src="images/SFU_logo.png" alt="SFU Logo" style="width: 200px;">
     </div>
     <div>
         <h2>Simon Fraser University</h2>
@@ -44,6 +41,7 @@ Education
         </ul>
     </div>
 </div>
+
 
 
 Certificates
