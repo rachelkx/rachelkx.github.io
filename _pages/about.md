@@ -27,11 +27,8 @@ Posters
 
 Education
 ------
-| !(https://www.sfu.ca/content/sfu/communicators-toolkit/brand/guidelines/logos/logo-usage-guidelines/jcr:content/main_content/image_672850327.img.640.medium.png/1685743328658.png) | Simon Fraser University
-Master of Professional Computer Science in Big Data
-Sep 2024 - Dec 2025
-**Notable Coursework**: Machine Learning, Distributed and Cloud Computing, Domain-specific Language, Big Data|
-|-----------------------|-----------------------|
+| ![SFU Logo](https://www.sfu.ca/content/sfu/communicators-toolkit/brand/guidelines/logos/logo-usage-guidelines/jcr:content/main_content/image_672850327.img.640.medium.png/1685743328658.png) | **Simon Fraser University**<br>Master of Professional Computer Science in Big Data<br>Sep 2024 - Dec 2025<br><br>**Notable Coursework:**<br>- Machine Learning<br>- Distributed and Cloud Computing<br>- Domain-specific Language<br>- Big Data |
+|-----------------------|------------------------------------------------------------------------------------------------------------------|
 
 Certificates
 ------
