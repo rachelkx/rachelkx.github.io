@@ -24,8 +24,8 @@ Projects
 
 Education
 ------
-<div style="display: flex; align-items: center; margin: 20px;">
-    <div style="flex-shrink: 0; margin-right: 20px;">
+<div style="display: flex; flex-direction: column; margin: 20px; gap: 20px;">
+    <div style="display: flex; align-items: center; gap: 20px;">
         <img src="images/SFU-logo.png" alt="SFU Logo" style="width: 200px;">
     </div>
     <div>
@@ -40,7 +40,7 @@ Education
             <li>Big Data</li>
         </ul>
     </div>
-      <div style="flex-shrink: 0; margin-right: 20px;">
+      <div style="display: flex; align-items: center; gap: 20px;">
         <img src="images/McMaster-logo.png" alt="McMaster Logo" style="width: 200px;">
     </div>
     <div>
