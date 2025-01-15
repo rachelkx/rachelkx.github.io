@@ -26,11 +26,11 @@ Education
 ------
 <div style="display: flex; align-items: center; margin: 20px;">
     <div style="flex-shrink: 0; margin-right: 20px;">
-        <img src="images/SFU_logo.png" alt="SFU Logo" style="width: 200px;">
+        <img src="images/SFU-logo.png" alt="SFU Logo" style="width: 200px;">
     </div>
     <div>
         <h2>Simon Fraser University</h2>
-        <p>Master of Professional Computer Science in Big Data<br>
+        <p>Master of Professional Computer Science in Big Data (Co-op)<br>
         Sep 2024 - Dec 2025</p>
         <p><strong>Notable Coursework:</strong></p>
         <ul>
@@ -38,6 +38,21 @@ Education
             <li>Distributed and Cloud Computing</li>
             <li>Domain-specific Language</li>
             <li>Big Data</li>
+        </ul>
+    </div>
+      <div style="flex-shrink: 0; margin-right: 20px;">
+        <img src="images/McMaster-logo.png" alt="McMaster Logo" style="width: 200px;">
+    </div>
+    <div>
+        <h2>McMaster University</h2>
+        <p>Bachelor of Applied Science in Computer Scicne (Honours, Co-op)<br>
+        Sep 2017 - Jun 2021</p>
+        <p><strong>Notable Coursework:</strong></p>
+        <ul>
+            <li>Data Structures & Algorithms </li>
+            <li>Computer Networks and Security</li>
+            <li>Databases</li>
+            <li>Operating Systems</li>
         </ul>
     </div>
 </div>
