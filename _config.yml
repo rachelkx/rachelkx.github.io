@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Kexin Liu"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "A proactive and responsible problem solver who takes initiative and thinks creatively"
   location         : "Burnaby, BC"
   email            : "kexinliu1022@hotmail.com" 
 
@@ -210,16 +210,16 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
