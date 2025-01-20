@@ -14,8 +14,31 @@ Hi! I’m Kexin Liu (pronounced as Kuh-shin), but feel free to call me Rachel. I
 
 Projects
 ======
-<div id="projects" class="section" section="projectNavItem">
-                <h2>Projects</h2>                
+<!---CSS style for projects layout-->
+<style>
+.project-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+    justify-content: center;
+}
+.project-card {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    overflow: hidden;
+    text-align: left;
+    padding: 15px;
+    background: #fff;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.project-image img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+}
+</style>
+
+<div id="projects" class="section" section="projectNavItem">            
                 <div class="project-container">
                     <div class="project-grid">
                         <div class="project-card">
@@ -169,5 +192,7 @@ Education
 
 Certificates
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+** GitHub Foundations, 2024
+** IBM Data Analysis, 2025
+** AWS Cloud Practioner, 2025
 
