@@ -125,7 +125,7 @@ Projects
 
                         <div class="project-card">
                             <div class="project-image">
-                                <img src="/images/project_images/CS3DB3.jpg">
+                                <img src="/images/project_images/CS3DB3.png">
                             </div>
                             <div class="project-info">
                                 <h3>Flights Data Analytics</h3>
@@ -192,7 +192,12 @@ Education
 
 Certificates
 ------
-** GitHub Foundations, 2024
-** IBM Data Analysis, 2025
-** AWS Cloud Practioner, 2025
+### Certifications
+
+| Certificate | Issuing Organization | Status |
+|------------|----------------------|--------|
+| GitHub Foundations | GitHub | ✅ Completed (Nov 2024) |
+| Data Analysis | IBM | 📝 Studying for Exam |
+| AWS Cloud Practioner | AWS | 🔄 In Progress |
+
 
