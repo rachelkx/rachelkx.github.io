@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-**"Good morning, and in case I don't see ya, good afternoon, good evening, and good night!"**
-Hi! I’m Kexin Liu (pronounced as Kuh-shin), but feel free to call me Rachel. I’m a first-year graduate student at Simon Fraser University, pursuing a Master of Science in Big Data. I hold a Bachelor’s degree in Honours Computer Science from McMaster University. Before diving into my current studies, I was a software engineer at Sugon, where I developed automation solutions and optimized system efficiency using Jenkins and Python.
+**Hi there! Whether it's morning, afternoon, or evening where you are, I'm happy to introduce myself.**
+I’m Kexin Liu (pronounced as Kuh-shin), but feel free to call me Rachel. I’m a first-year graduate student at Simon Fraser University, pursuing a Master of Science in Big Data. I hold a Bachelor’s degree in Honours Computer Science from McMaster University. Before diving into my current studies, I was a software engineer at Sugon, where I developed automation solutions and optimized system efficiency using Jenkins and Python.
 
 
 Projects
